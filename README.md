@@ -1,0 +1,3 @@
+# WakinUpTextAdventure
+MY First TextAdventure
+WHEN YOU WANT TO RUN THE PROGRAM PRESS CONTROL AND F5
